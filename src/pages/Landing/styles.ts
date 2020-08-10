@@ -1,5 +1,3 @@
-import { Archivo_700Bold } from "@expo-google-fonts/archivo";
-import { Archivo_400Regular } from "@expo-google-fonts/poppins";
 import { StyleSheet } from "react-native";
 
 const styles = StyleSheet.create({
@@ -32,7 +30,6 @@ const styles = StyleSheet.create({
   button: {
     height: 150,
     width: "48%",
-    backgroundColor: "#ff0000",
     borderRadius: 8,
     padding: 24,
     justifyContent: "space-between",
